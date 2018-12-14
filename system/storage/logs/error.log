@@ -1,0 +1,108 @@
+2018-12-13 16:42:19 - PHP Notice:  Undefined variable: voucher in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\common\cart.tpl on line 30
+2018-12-14 14:36:34 - PHP Notice:  A non well formed numeric value encountered in C:\OSPanel\domains\starta\system\library\image.php on line 105
+2018-12-14 14:36:34 - PHP Notice:  A non well formed numeric value encountered in C:\OSPanel\domains\starta\system\library\image.php on line 105
+2018-12-14 14:36:34 - PHP Notice:  A non well formed numeric value encountered in C:\OSPanel\domains\starta\system\library\image.php on line 116
+2018-12-14 14:36:34 - PHP Notice:  A non well formed numeric value encountered in C:\OSPanel\domains\starta\system\library\image.php on line 116
+2018-12-14 15:27:25 - PHP Notice:  Undefined index: image in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 7
+2018-12-14 15:27:30 - PHP Notice:  Undefined index: image in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 7
+2018-12-14 15:27:33 - PHP Notice:  Undefined index: image in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 7
+2018-12-14 16:07:25 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:07:25 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 12
+2018-12-14 16:08:18 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:09:10 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:09:10 - PHP Notice:  Undefined index: name in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 12
+2018-12-14 16:09:26 - PHP Notice:  Undefined index: name in C:\OSPanel\domains\starta\catalog\controller\extension\module\slideshow.php on line 29
+2018-12-14 16:09:50 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:10:09 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:10:09 - PHP Notice:  Undefined index: name in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 12
+2018-12-14 16:10:16 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:10:38 - PHP Notice:  Undefined index: name in C:\OSPanel\domains\starta\catalog\controller\extension\module\slideshow.php on line 29
+2018-12-14 16:10:43 - PHP Notice:  Undefined index: name in C:\OSPanel\domains\starta\catalog\controller\extension\module\slideshow.php on line 29
+2018-12-14 16:11:03 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:11:33 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:11:52 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:11:53 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:12:22 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:15:52 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:16:00 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:16:07 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 1
+2018-12-14 16:19:09 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 40
+2018-12-14 16:19:56 - PHP Notice:  Undefined variable: banner in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 21
+2018-12-14 16:19:56 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 40
+2018-12-14 16:20:07 - PHP Notice:  Undefined variable: banner in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 21
+2018-12-14 16:20:12 - PHP Notice:  Undefined variable: banner in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 21
+2018-12-14 16:20:31 - PHP Notice:  Undefined variable: banner in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 21
+2018-12-14 16:20:34 - PHP Notice:  Undefined variable: banner in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 21
+2018-12-14 16:21:35 - PHP Notice:  Undefined variable: banner in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 5
+2018-12-14 16:21:35 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 40
+2018-12-14 16:21:58 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 40
+2018-12-14 16:22:40 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 40
+2018-12-14 16:22:54 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 40
+2018-12-14 16:45:00 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 40
+2018-12-14 17:01:20 - PHP Notice:  Array to string conversion in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\slideshow.tpl on line 38
+2018-12-14 17:37:53 - PHP Notice:  Undefined variable: baners in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\carousel.tpl on line 1
+2018-12-14 17:38:07 - PHP Notice:  Undefined index: name in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\carousel.tpl on line 1
+2018-12-14 18:02:52 - PHP Notice:  Undefined index: image in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\extension\module\carousel.tpl on line 22
+2018-12-14 21:18:16 - PHP Notice:  Undefined variable: fax in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\common\header.tpl on line 87
+2018-12-14 21:43:56 - PHP Notice:  Undefined variable: class in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 9
+2018-12-14 21:44:26 - PHP Notice:  Undefined variable: class in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 9
+2018-12-14 21:46:56 - PHP Notice:  Undefined variable: class in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 9
+2018-12-14 21:47:18 - PHP Notice:  Undefined variable: class in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 4
+2018-12-15 0:31:35 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 132
+2018-12-15 0:34:07 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 226
+2018-12-15 0:34:58 - PHP Notice:  Undefined property: Request::$50 in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 226
+2018-12-15 0:36:13 - PHP Notice:  Undefined offset: 50 in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 226
+2018-12-15 0:36:29 - PHP Notice:  Undefined offset: 50 in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 226
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined index: product_id in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 224
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:40:38 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:41:58 - PHP Notice:  Undefined variable: attribute_groups in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 22
+2018-12-15 0:43:04 - PHP Notice:  Undefined variable: result in C:\OSPanel\domains\starta\catalog\controller\product\category.php on line 132
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 0:57:02 - PHP Notice:  Undefined variable: attribute in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 26
+2018-12-15 1:22:05 - PHP Notice:  Undefined variable: banners in C:\OSPanel\domains\starta\catalog\view\theme\starta\template\product\category.tpl on line 8
